@@ -45,6 +45,4 @@ __WarningLevel_cis__ |90| CIS value.
 
 
 # Author Information
-Richard M. Williams
-
-rmwill@us.ibm.com
+Richard M. Williams (williamsitv@yahoo.com)
